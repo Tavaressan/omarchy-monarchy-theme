@@ -1,0 +1,32 @@
+# Monarchy — Brasil Imperial (paleta derivada das pinturas de Meirelles e Pedro Américo, via Aether)
+mode = "dark"
+
+accent = "#c9a227"
+selection = "#3a2d22"
+muted = "#7a6a58"
+
+background = "#1c1612"
+dark_background = "#15110e"
+darker_background = "#0f0c0a"
+lighter_background = "#2a211a"
+
+foreground = "#e8dcc0"
+dark_foreground = "#a08f75"
+light_foreground = "#d8c9a8"
+bright_foreground = "#f7efdc"
+
+red = "#b5452f"
+yellow = "#d9a441"
+orange = "#c97b45"
+green = "#4a7c3f"
+cyan = "#7fb5a8"
+blue = "#6fa8b8"
+magenta = "#9a5b6e"
+brown = "#7a5a3a"
+
+bright_red = "#d4694f"
+bright_yellow = "#f0c15f"
+bright_green = "#6da05c"
+bright_cyan = "#a0d0c3"
+bright_blue = "#93c4d2"
+bright_magenta = "#b87d90"

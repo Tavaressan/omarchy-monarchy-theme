@@ -1,0 +1,8 @@
+[Unit]
+Description=Próximo wallpaper do tema Monarchy
+
+[Service]
+Type=oneshot
+# Só gira os wallpapers enquanto o tema ativo for o Monarchy
+ExecCondition=/usr/bin/grep -qx monarchy %h/.local/state/omarchy/current/theme.name
+ExecStart=/usr/share/omarchy/bin/omarchy-theme-bg-next
