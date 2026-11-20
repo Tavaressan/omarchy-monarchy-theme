@@ -8,7 +8,7 @@ Tema escuro para o [Omarchy](https://omarchy.org) com paleta derivada de pintura
 ## Instalação
 
 ```bash
-omarchy theme install <url-do-repositório>
+omarchy theme install https://github.com/Tavaressan/omarchy-monarchy-theme
 omarchy theme set Monarchy
 ```
 
