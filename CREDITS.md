@@ -1,6 +1,6 @@
 # Créditos dos wallpapers
 
-Os 15 wallpapers de `backgrounds/` são reproduções de obras do século XIX ligadas ao Império do Brasil.
+Os 16 wallpapers de `backgrounds/` são reproduções de obras do século XIX ligadas ao Império do Brasil.
 Todas as obras citadas são de autores falecidos há mais de 70 anos ou de autoria anônima/não identificada, e as
 reproduções vêm de acervos que as disponibilizam em domínio público (Wikimedia Commons, Brasiliana Iconográfica, Google Arts & Culture).
 Confira a licença da reprodução na fonte antes de reutilizar uma imagem fora deste tema.
@@ -9,6 +9,7 @@ Como a identificação foi feita:
 - **01–04, 12, 13:** pelo nome dos arquivos originais de origem (padrão Wikimedia Commons).
 - **05–11:** por busca reversa de imagem (Google Lens), conferida nos registros da Brasiliana Iconográfica e da Wikimedia Commons.
 - **14, 15:** por comparação visual com a obra original (ver abaixo).
+- **16:** obra reconhecida pelo conteúdo (*A Primeira Missa no Brasil*, de Victor Meirelles); o arquivo de origem não citava o autor.
 
 ## Obras
 
@@ -27,6 +28,7 @@ Como a identificação foi feita:
 | `11-pintura-11.jpg` | *Revista das tropas destinadas a Montevidéu, na Praia Grande* | Jean-Baptiste Debret | Pinacoteca do Estado de São Paulo |
 | `12-sagracao-de-dom-pedro-ii.jpg` | *Estudo para a Sagração de Dom Pedro II* (c. 1840) | Manuel de Araújo Porto-Alegre | Estudo preparatório |
 | `13-batalha-do-riachuelo.jpg` | *Batalha do Riachuelo*, cópia no Palácio Pedro Ernesto (Rio de Janeiro) | **A confirmar** (autor da cópia) | O tema é o de *Combate Naval do Riachuelo*, de Victor Meirelles; a autoria desta cópia não está identificada |
+| `16-primeira-missa-no-brasil.jpg` | *A Primeira Missa no Brasil* (1861) | Victor Meirelles | Museu Nacional de Belas Artes (Rio de Janeiro); fotografia da obra em alta resolução, reduzida para 3840 px |
 
 ## Versões com processamento digital
 
