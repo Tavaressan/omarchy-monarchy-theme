@@ -1,7 +1,7 @@
 # Monarchy — Brasil Imperial
 
 Tema escuro para o [Omarchy](https://omarchy.org) com paleta derivada de pinturas históricas do Império do Brasil
-(Meirelles, Pedro Américo e outras), com 15 wallpapers.
+(Victor Meirelles, Pedro Américo, Debret e outros), com 15 wallpapers. Créditos das obras em [CREDITS.md](CREDITS.md).
 
 ![preview](preview.png)
 
@@ -44,7 +44,8 @@ Troca manual: `omarchy theme bg next`.
 | Arquivo | Função |
 |---|---|
 | `colors.toml` | Paleta do tema |
-| `backgrounds/` | 15 wallpapers |
+| `backgrounds/` | 15 wallpapers (créditos em `CREDITS.md`) |
+| `CREDITS.md` | Autoria e fonte de cada obra |
 | `icons.theme` | Tema de ícones (Yaru-warty-brown) |
 | `screensaver.txt` | Protetor de tela (extra) |
 | `extras/` | Unidades systemd da rotação (extra) |
